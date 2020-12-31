@@ -1,0 +1,17 @@
+Locales['en'] = {
+  ['press_to_chop'] = "Aracı Parçalamak İçin ~INPUT_CONTEXT~ Tuşuna Basınız !",
+  ['map_blip'] = "Araç Parçalama Yeri",
+  ['map_blip_shop'] = "Uğur Reis Parça Alış",
+  ['no_vehicle'] = "Sistem Mesajı : Araç Parçalamak İçin Aracın İçinde Olman Gerekir !",
+  ['open_shop'] = "Mağzaya Erişmek İçin ~INPUT_CONTEXT~ Tuşuna Basınız !",
+  ['sold'] = "~b~%sx~s~ ~y~%s~s~ Karşılığında ~g~%s Dolar~s~ Aldın !",
+  ['not_enough'] = 'Sistem Mesajı : Yeterli Parçan Yok !',
+  ['shop_prompt'] = 'Uğur Reisle Konuşmak İçin ~INPUT_CONTEXT~ Tuşuna Basınız !',
+  ['item'] = '%s $',
+  ['shop_title'] = 'Uğur Reis Parça Alış Menüsü',
+  ['cooldown'] = '~s~Tekrardan ~g~Araç Parçalamak İçin ~r~%s Dakika ~s~Beklemelisin !',
+  ['call'] = 'Sistem Mesajı : Birileri Araç Parçalıyor !',
+  ['911'] = '155 Polis İmdat',
+  ['chop'] = 'Araç Parçalama',
+  ['not_enough_cops'] = 'Sistem Mesajı : Yeterli Sayıda Aynasız Yok !',
+}
